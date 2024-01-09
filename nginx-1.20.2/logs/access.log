@@ -245,3 +245,6 @@
 127.0.0.1 - - [08/Jan/2024:19:10:24 +0800] "POST /api/employee/login HTTP/1.1" 502 494 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 127.0.0.1 - - [08/Jan/2024:19:10:29 +0800] "POST /api/employee/login HTTP/1.1" 502 494 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 127.0.0.1 - - [08/Jan/2024:19:10:34 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+10.122.239.44 - - [09/Jan/2024:10:31:36 +0800] "GET / HTTP/1.0" 200 2012 "-" "-"
+10.122.249.142 - - [09/Jan/2024:11:37:11 +0800] "GET / HTTP/1.0" 200 2012 "-" "-"
+10.122.206.3 - - [09/Jan/2024:15:05:25 +0800] "GET / HTTP/1.0" 200 2012 "-" "-"
